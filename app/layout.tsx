@@ -18,6 +18,7 @@ export default function RootLayout({
                Notes 
             </Link>
           </nav>
+          {children}
         </main>
       </body>
     </html>
